@@ -1,10 +1,10 @@
-#How we Built Translate Overflow
+# How we Built Translate Overflow
 
-##This tutorial is a guide to building Translate Overflow (https://github.com/Adrianjewell91/tl_overflow).
+## This tutorial is a guide to building Translate Overflow (https://github.com/Adrianjewell91/tl_overflow).
 
 If you have any suggestions for clarity, please write me.
 
-##Preface
+## Preface
 Preface: Understand that you always must activate a virtual environment when you work with a Django project. Install python3 and install the package for virtualenv, and always activate it before working with your project in python. File structure should look something like:
 
 /project
@@ -12,7 +12,7 @@ Preface: Understand that you always must activate a virtual environment when you
    /project_name
       //all the actual files. 
 
-##Start 
+## Start 
 Do the Getting Started with Django on the Django Documentation. Use the newest version of python (probably 3.6.2), and create your app like this: 1. “cd your_project” 2. “virtualenv env”. #creates the virtual environment. 3. “source env/bin/activate”. 4. Then do the instructions for creating a Django app.
 
 1 Do the “Getting Started with Django” Tutorial on Heroku. https://devcenter.heroku.com/articles/getting-started-with-python#introduction
